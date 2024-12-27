@@ -1,0 +1,49 @@
+{
+  "version": 7,
+  "cmakeMinimumRequired": {
+    "major": 3
+  },
+  "configurePresets": [
+    {
+      "name": "debug-env",
+      "displayName": "debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/akhilalabs/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP",
+        "POSTPROCESS_UTILITY": "/home/akhilalabs/.mcuxpressotools/mcux-fixelf/mcux-fixelf"
+      }
+    },
+    {
+      "name": "release-env",
+      "displayName": "release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/akhilalabs/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP",
+        "POSTPROCESS_UTILITY": "/home/akhilalabs/.mcuxpressotools/mcux-fixelf/mcux-fixelf"
+      }
+    },
+    {
+      "name": "flash_debug-env",
+      "displayName": "flash_debug-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/akhilalabs/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP",
+        "POSTPROCESS_UTILITY": "/home/akhilalabs/.mcuxpressotools/mcux-fixelf/mcux-fixelf"
+      }
+    },
+    {
+      "name": "flash_release-env",
+      "displayName": "flash_release-env",
+      "hidden": true,
+      "environment": {
+        "ARMGCC_DIR": "/home/akhilalabs/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi",
+        "SdkRootDirPath": "/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP",
+        "POSTPROCESS_UTILITY": "/home/akhilalabs/.mcuxpressotools/mcux-fixelf/mcux-fixelf"
+      }
+    }
+  ],
+  "buildPresets": []
+}

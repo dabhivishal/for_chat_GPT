@@ -1,0 +1,20 @@
+{
+  "version": "24.9",
+  "toolchainPath": "/home/akhilalabs/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-x86_64-arm-none-eabi",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "debug": {
+    "linkserver": {},
+    "pemicro": {},
+    "segger": {}
+  },
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "2.15.000",
+    "path": "/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP",
+    "boardId": "evk9mimx8ulp",
+    "deviceId": "MIMX8UD5xxx08",
+    "coreId": "cm33_MIMX8UD5"
+  }
+}
