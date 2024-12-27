@@ -1,3 +1,0 @@
-/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_reset.c:40:6:RESET_SetPeripheralReset	24	static
-/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_reset.c:57:6:RESET_ClearPeripheralReset	24	static
-/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_reset.c:74:6:RESET_PeripheralReset	16	static

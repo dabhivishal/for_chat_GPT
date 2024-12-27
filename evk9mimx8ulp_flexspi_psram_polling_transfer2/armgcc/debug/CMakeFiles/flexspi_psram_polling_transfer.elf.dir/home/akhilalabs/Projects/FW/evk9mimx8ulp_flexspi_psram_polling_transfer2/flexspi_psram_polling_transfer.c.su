@@ -1,6 +1,0 @@
-/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_flexspi.h:431:20:FLEXSPI_SoftwareReset	16	static
-/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/flexspi_psram_polling_transfer.c:84:10:flexspi_psram_ipcommand_write_data	48	static
-/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/flexspi_psram_polling_transfer.c:103:10:flexspi_psram_ipcommand_read_data	48	static
-/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/flexspi_psram_polling_transfer.c:122:6:flexspi_hyper_ram_ahbcommand_write_data	32	static
-/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/flexspi_psram_polling_transfer.c:128:6:flexspi_hyper_ram_ahbcommand_read_data	32	static
-/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/flexspi_psram_polling_transfer.c:134:5:main	24	static
