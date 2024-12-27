@@ -1,0 +1,17 @@
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_clock.h:1734:20:CLOCK_SetCm33SysClkConfig	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_clock.h:2096:20:CLOCK_IsSysOscValid	4	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_clock.h:2331:20:CLOCK_IsRtcOscValid	4	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_clock.h:2871:20:CLOCK_SetXtal0Freq	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/./fsl_clock.h:2881:20:CLOCK_SetXtal32Freq	16	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:163:6:BOARD_InitClock	8	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:190:6:BOARD_CalculateDivider	32	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:205:6:BOARD_InitPlls	8	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:239:6:BOARD_BootClockRUN	16	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:272:6:BOARD_ResumeClockInit	24	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:307:14:BOARD_CalculateCoreClkDivider	112	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:375:14:BOARD_SwitchToFROClk	56	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:417:6:BOARD_DisablePlls	4	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:424:14:BOARD_GetRtdDriveMode	24	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:458:14:BOARD_GetDriveModeByCoreFreq	24	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:482:9:BOARD_UpdateM33CoreFreq	48	static
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/clock_config.c:787:6:BOARD_SwitchDriveMode	72	static

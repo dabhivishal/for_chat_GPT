@@ -1,0 +1,4 @@
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_common_arm.c:121:6:MSDK_EnableCpuCycleCounter	8	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_common_arm.c:139:10:MSDK_GetCpuCycleCount	4	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_common_arm.c:175:13:DelayLoop	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_common_arm.c:205:6:SDK_DelayAtLeastUs	40	static

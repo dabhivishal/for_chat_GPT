@@ -1,0 +1,15 @@
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_clock.h:1537:20:CLOCK_EnableClock	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_clock.h:1550:20:CLOCK_DisableClock	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.h:379:20:MU_SetFlagsNonBlocking	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:42:17:MU_GetInstance	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:68:6:MU_Init	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:86:6:MU_Deinit	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:102:6:MU_SendMsg	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:124:10:MU_ReceiveMsg	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:150:6:MU_SetFlags	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:182:10:MU_GetStatusFlags	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:228:10:MU_TriggerInterrupts	32	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:261:10:MU_TriggerNmi	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:289:6:MU_BootOtherCore	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:319:6:MU_HoldOtherCoreReset	24	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_mu.c:371:6:MU_HardwareResetOtherCore	24	static

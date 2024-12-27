@@ -1,0 +1,3 @@
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/armgcc/debug/CMakeFiles/flexspi_psram_polling_transfer.elf.dir
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/armgcc/debug/CMakeFiles/edit_cache.dir
+/home/akhilalabs/Projects/FW/evk9mimx8ulp_flexspi_psram_polling_transfer2/armgcc/debug/CMakeFiles/rebuild_cache.dir

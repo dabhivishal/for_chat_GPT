@@ -1,0 +1,4 @@
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_fusion.h:101:20:Fusion_Stop	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_fusion.c:40:6:Fusion_Init	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_fusion.c:70:6:Fusion_Deinit	16	static
+/home/akhilalabs/Projects/FW/SDK_2_15_000_EVK9-MIMX8ULP/devices/MIMX8UD5/drivers/fsl_fusion.c:100:6:DSP_CopyImage	32	static
